@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://survey.spartan.com/sitemap.xml
